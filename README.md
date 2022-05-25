@@ -83,8 +83,7 @@ if (buttonstate2 == HIGH){
 
 ### OUTPUT
 
-![OUTPUT](./W2.png)
-![OUTPUT](./W1.png)
+![OUTPUT](./v1.png)
 
 
 ### RESULTS
